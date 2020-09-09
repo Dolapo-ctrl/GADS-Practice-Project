@@ -12,4 +12,4 @@ AIM:
 All three tasks are deemed to engage learners in the available Slack channels. Whether it’s the general #cloud channel or their associated PLG channel. This shall lead to a vital exchange of knowledge and tips on how to handle instructions as written commands in the Cloud Shell.
 
 CONCLUSION:
-At the end of this project, 15 hands-on Labs were completed and 4 seected labs were translated from console instructions to 100% command line instruction.
+At the end of this project, 16 hands-on Labs were completed and 4 seected labs were translated from console instructions to 100% command line instruction.
