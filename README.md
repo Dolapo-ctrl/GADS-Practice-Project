@@ -1,6 +1,8 @@
 # GADS-Practice-Project
 The project of a Phase 2 participant(Dolapo Oriolowo) in the Cloud track of the GADS 2020. Prior to encouragement to explore the possibilities and opportunities to work with the gcloud SDK more in detail.
+
 CHALLENGE:
+
 The Cloud challenge is divided in two parts:
 
 - Complete of 10-15 selected hands-on labs on Qwiklabs and submitting proof of such per screenshot based on the email received.
